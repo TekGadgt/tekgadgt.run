@@ -2,7 +2,7 @@
 
 My own lil URL shortener
 
-//TODO Add Netlify Status Button
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c88f74c6-1ed1-469f-b6fd-aaa8ed127f0a/deploy-status)](https://app.netlify.com/sites/sweet-dieffenbachia-54381b/deploys)
 
 ## Make your own
 
