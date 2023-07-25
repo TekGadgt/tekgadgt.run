@@ -1,15 +1,13 @@
-/test      https://test
-/cn        https://community.codenewbie.org/tekgadgt
-/dev       https://dev.to/tekgadgt
-/nac       https://notacult.social/@tekgadgt
-/bsky      https://bsky.app/profile/tekgadgt.dev
-/tw        https://twitter.com/TekGadgt
-/li        https://www.linkedin.com/in/ryan-mcgovern-tekgadgt/
-/twitch    https://www.twitch.tv/tekgadgt
-/codepen   https://codepen.io/tekgadgt
-/gh        https://github.com/TekGadgt
-/pw        https://polywork.tekgadgt.dev
-
+/cn https://community.codenewbie.org/tekgadgt
+/dev https://dev.to/tekgadgt
+/nac https://notacult.social/@tekgadgt
+/bsky https://bsky.app/profile/tekgadgt.dev
+/tw https://twitter.com/TekGadgt
+/li https://www.linkedin.com/in/ryan-mcgovern-tekgadgt/
+/twitch https://www.twitch.tv/tekgadgt
+/codepen https://codepen.io/tekgadgt
+/gh https://github.com/TekGadgt
+/pw https://polywork.tekgadgt.dev
 
 #fallback
-/*         https://tekgadgt.com
+/\* https://tekgadgt.com
